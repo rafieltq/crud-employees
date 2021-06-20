@@ -1,6 +1,6 @@
 # Frontend CRUD Empleados
 Sencillo CRUD (Aun en desarrollo)
-<img src="https://i.imgur.com/ewTDGgq.png" width="100px" heihgt="200px"/>
+<img src="https://i.imgur.com/ewTDGgq.png"/>
 - HTML
 - CSS
 - Javascript
