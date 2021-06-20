@@ -1,6 +1,6 @@
 # Frontend CRUD Empleados
 Sencillo CRUD (Aun en desarrollo)
-https://prnt.sc/163dr3j
+<img src="https://prnt.sc/163dr3j" width="100px" heihgt="200px"/>
 - HTML
 - CSS
 - Javascript
