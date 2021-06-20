@@ -1,4 +1,6 @@
 # Frontend CRUD Empleados
+Sencillo CRUD (Aun en desarrollo)
+https://prnt.sc/163dr3j
 - HTML
 - CSS
 - Javascript
